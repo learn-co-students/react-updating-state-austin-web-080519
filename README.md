@@ -104,7 +104,7 @@ component:
 ```js
 {
   hasBeenClicked: false,
-  currentTheme: 'blue',
+  currentTheme: 'red',
 }
 ```
 
@@ -115,7 +115,7 @@ state:
 ```js
 {
   hasBeenClicked: true,
-  currentTheme: 'blue',
+  currentTheme: 'red',
 }
 ```
 
